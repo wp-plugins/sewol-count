@@ -7,7 +7,8 @@ Version: 1.0
 Author: Park Yong
 Author URI: http://parkyong.com
 License: GPLv2 or later
-Text Domain: sewol-plugin
+Text Domain: sewol-count
+Domain Path: /languages
 */
 
 /*
