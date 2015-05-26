@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Sewol Count 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-19 15:27+0900\n"
-"PO-Revision-Date: 2015-05-19 15:53+0900\n"
+"PO-Revision-Date: 2015-05-26 18:14+0900\n"
 "Last-Translator: Park Yong <pangol75@gmail.com>\n"
 "Language-Team: Park Yong <pangol75@gmail.com>\n"
 "Language: ko\n"
@@ -34,3 +34,7 @@ msgstr "제목"
 #. Description of the plugin/theme
 msgid "count day after Sewol Ferry Disaster"
 msgstr "세월호 사건이 발생 한 후 지난 시간을 표시합니다"
+
+#. Plugin Name of the plugin/theme
+msgid "Sewol Count"
+msgstr "세월호 카운트"
