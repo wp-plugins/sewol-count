@@ -74,7 +74,7 @@ class sewol_widget extends WP_Widget {
 
 		$title = apply_filters('widget_title', $instance['title']);
 		if ( !empty( $title ) ) { 
-			echo '<h1 class="widget-title" >' . $before_title . $title . $after_title . '</h1>';
+			echo $before_title . $title . $after_title;
 		}
 
 		$now = time(); 

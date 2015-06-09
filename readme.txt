@@ -3,7 +3,7 @@ Contributors: pangol
 Tags: sewol
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.4
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,3 +48,6 @@ Major features in Sewol Count include:
 
 = 1.0.5 =
 * fix widget title 
+
+= 1.0.6 =
+*remove duplicated widget titles
