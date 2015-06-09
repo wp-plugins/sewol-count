@@ -45,3 +45,6 @@ Major features in Sewol Count include:
 
 = 1.0.4 =
 * fix some errors about widget
+
+= 1.0.5 =
+* fix widget title 
