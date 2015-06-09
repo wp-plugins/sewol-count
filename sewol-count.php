@@ -3,7 +3,7 @@
 Plugin Name: Sewol Count
 Plugin URI: http://parkyong.com
 Description: count day after Sewol Ferry Disaster
-Version: 1.0.3
+Version: 1.0.4
 Author: Park Yong
 Author URI: http://parkyong.com
 License: GPLv2 or later
@@ -69,6 +69,7 @@ class sewol_widget extends WP_Widget {
 
 	function widget ( $args, $instance ) {
 
+		extract($args);
 		echo $before_widget;
 		echo '<aside id="sewol" class="widget">';
 
